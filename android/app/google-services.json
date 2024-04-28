@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625451719377",
+    "project_id": "divine-fed08",
+    "storage_bucket": "divine-fed08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625451719377:android:aba299771731210955c3f0",
+        "android_client_info": {
+          "package_name": "com.divine.divine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625451719377-7n7o2kcdg8khjjiqhmt88hevs4atduih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divine.divine_app",
+            "certificate_hash": "d32f789f6cb5cd203ebb3ebb52dc97ee63a6e954"
+          }
+        },
+        {
+          "client_id": "625451719377-l2251vpdmbiterq5i4urj3sf1ru8ngrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjfzJ9Q9A4-YNrQTbRfhWKNUTubOklZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625451719377-l2251vpdmbiterq5i4urj3sf1ru8ngrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
